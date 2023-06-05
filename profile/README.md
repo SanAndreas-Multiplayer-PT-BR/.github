@@ -5,7 +5,7 @@
 
 ### **Administradores**
 - **[Brunoo16](https://github.com/Brunoo16)**
-- **[Lorenzoo](https://github.com/LouzinDeev)**
+- **[Louzin](https://github.com/LouzinDeev)**
 ### **Moderadores**
 - **Carvalhoo**
 - **[Rose](https://github.com/IamNotRose)**
